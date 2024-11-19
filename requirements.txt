@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+lxml
+pandas
+numpy
+aiohttp
+playwright
+fastapi
+uvicorn
+pytest

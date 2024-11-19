@@ -1,0 +1,44 @@
+2024-11-19 23:24:07,408 - INFO - RufusAgent initialized.
+2024-11-19 23:24:07,408 - INFO - Starting crawl on https://quotes.toscrape.com/ with prompt: Extract FAQs
+2024-11-19 23:24:23,149 - INFO - Successfully crawled 22 pages.
+2024-11-19 23:26:47,685 - INFO - RufusAgent initialized.
+2024-11-19 23:26:47,686 - INFO - Starting crawl and synthesis on https://example.com
+2024-11-19 23:27:03,520 - INFO - Filtering data based on prompt relevance.
+2024-11-19 23:27:03,521 - INFO - Data saved to output.csv
+2024-11-19 23:27:30,245 - INFO - RufusAgent initialized.
+2024-11-19 23:27:30,246 - INFO - Starting crawl and synthesis on https://books.toscrape.com/
+2024-11-19 23:27:31,935 - INFO - Filtering data based on prompt relevance.
+2024-11-19 23:27:31,937 - INFO - Data saved to output.csv
+2024-11-19 23:28:10,310 - INFO - RufusAgent initialized.
+2024-11-19 23:28:10,310 - INFO - Starting crawl and synthesis on https://books.toscrape.com/
+2024-11-19 23:28:11,946 - INFO - Filtering data based on prompt relevance.
+2024-11-19 23:28:11,947 - INFO - Data saved to output.csv
+2024-11-19 23:28:43,462 - INFO - RufusAgent initialized.
+2024-11-19 23:28:43,462 - INFO - Starting crawl and synthesis on https://books.toscrape.com/
+2024-11-19 23:28:45,033 - INFO - Filtering data based on prompt relevance.
+2024-11-19 23:28:45,034 - INFO - Data saved to output.csv
+2024-11-19 23:29:22,304 - INFO - RufusAgent initialized.
+2024-11-19 23:29:22,305 - INFO - Starting crawl and synthesis on https://www.scrapethissite.com/
+2024-11-19 23:29:22,970 - INFO - Filtering data based on prompt relevance.
+2024-11-19 23:29:22,971 - INFO - Data saved to output.csv
+2024-11-19 23:29:40,501 - INFO - RufusAgent initialized.
+2024-11-19 23:29:40,501 - INFO - Starting crawl and synthesis on https://www.scrapethissite.com/
+2024-11-19 23:29:41,161 - INFO - Filtering data based on prompt relevance.
+2024-11-19 23:29:41,162 - INFO - Data saved to output.csv
+2024-11-19 23:34:36,065 - INFO - RufusAgent initialized.
+2024-11-19 23:34:36,065 - INFO - Starting crawl on https://quotes.toscrape.com/ with prompt: Extract FAQs
+2024-11-19 23:34:53,650 - INFO - Successfully crawled 22 pages.
+2024-11-19 23:35:43,176 - INFO - RufusAgent initialized.
+2024-11-19 23:35:43,177 - INFO - Starting crawl on https://quotes.toscrape.com/ with prompt: Extract FAQs
+2024-11-19 23:35:55,076 - INFO - Successfully crawled 22 pages.
+2024-11-19 23:35:55,079 - INFO - RufusAgent initialized.
+2024-11-19 23:35:55,079 - INFO - Starting crawl and synthesis on https://www.scrapethissite.com/
+2024-11-19 23:35:55,759 - INFO - Filtering data based on prompt relevance.
+2024-11-19 23:35:55,760 - INFO - Data saved to output.csv
+2024-11-19 23:36:22,836 - INFO - RufusAgent initialized.
+2024-11-19 23:36:22,836 - INFO - Starting crawl on https://quotes.toscrape.com/ with prompt: Extract FAQs
+2024-11-19 23:36:34,587 - INFO - Successfully crawled 22 pages.
+2024-11-19 23:36:34,593 - INFO - RufusAgent initialized.
+2024-11-19 23:36:34,593 - INFO - Starting crawl and synthesis on https://quotes.toscrape.com/
+2024-11-19 23:36:54,606 - INFO - Filtering data based on prompt relevance.
+2024-11-19 23:36:54,608 - INFO - Data saved to output.csv
