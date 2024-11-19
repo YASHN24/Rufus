@@ -88,7 +88,13 @@ All logs are stored in rufus.log. Tail the logs for debugging:
 
 tail -f rufus.log
 
+# How to Integrate Rufus into RAG Pipelines
+Use the API to fetch and structure data based on prompts.
+Output JSON or CSV files can be directly ingested into RAG models for further training or inference.
+
 # Challenges Solved
 Handling nested links and dynamic content.
 Extracting relevant data based on user-defined prompts.
 Ensuring robust error handling and user-friendly logging.
+
+
