@@ -30,7 +30,7 @@ rufus/
 Clone the repository:
 
 
-git clone https://github.com/your-username/rufus.git
+git clone https://github.com/YASHN24/rufus.git
 cd rufus
 Create a virtual environment and activate it:
 
